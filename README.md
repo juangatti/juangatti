@@ -32,8 +32,6 @@ Other:
 
 Contactame a:
 
-:calling: : +549(11)21780676
-
 :email: juanse1028@gmail.com
 
 :briefcase: https://www.linkedin.com/in/juan-sebastian-gatti/
