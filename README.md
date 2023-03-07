@@ -1,5 +1,5 @@
 
-  <img   align="center" width="400"   alt="banner" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+  <img   align="center" width="100%"   alt="banner" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
   <div id="header" align"center">
   <h1 align="center"> Hi 👋, I'm Juan Gatti </h1>
   <h3 align="center">I am a very versatile and self-taught developer, My main quality is the ease
