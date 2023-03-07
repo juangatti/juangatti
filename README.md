@@ -1,5 +1,6 @@
 ### Hola!!! 👋 
 
+<img align="center" alt="banner" width="400" src="https://www.canva.com/design/DAFci86mbFc/XiuQsSvuAUqO4p3IaHqTGw/view">
 Soy Juan Gatti de Buenos Aires, Argentina. Me desenvuelvo como desarrollador Full-Stack, con preferencia en Front-End.
 
 Me forme profesionalmente en el Bootcamp intensivo SOY HENRY, en el cual obtuve experiencia de +700hs entre lectures, homeworks, pair-programing, stand-up, checkpoints, proyecto individual y proyecto grupal.
