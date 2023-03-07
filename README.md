@@ -9,4 +9,10 @@ with which I adapt to different situations, I am also constantly looking to
 
 ---
 
+<div id="badges" align"center">
+  <a href="mailto:juanse10028@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juan-sebastian-gatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://jgsolutions-tau-lemon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  
+</div>
 
