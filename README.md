@@ -1,6 +1,6 @@
 <div id="header" align"center">
-<img align="center" width="100%"   alt="banner" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
-  <h1> Hi 👋, I'm Juan Gatti </h1>
+<img align="center" width="400"   alt="banner" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+  <h1 align="center"> Hi 👋, I'm Juan Gatti </h1>
   <h3 align="center">I am a very versatile and self-taught developer, My main quality is the ease
 with which I adapt to different situations, I am also constantly looking to
   improve my skills and increase my knowledge.</h3>
@@ -19,3 +19,8 @@ with which I adapt to different situations, I am also constantly looking to
 
 ---
 
+### 📊 My Stats :
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juangatti&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juangatti&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
