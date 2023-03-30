@@ -26,13 +26,13 @@ with which I adapt to different situations, I am also constantly looking to
 
 ### 👨‍💻 About Me :
 
-- 📝 ++++++++++++++++++++++++++++++++++++++++++++
+- 📝 Ask me about anything you want 
 
-- 💬 +++++++++++++++++++++++++++++++++++++++++
+- 💬 Let's work together, if you want to contact me click in my badges
 
-- 📫 +++++++++++++++++++++++++++++++++++++++
+- 📫 Next step is learn Python and AWS
 
-- 🌱 ++++++++++++++++++++++++++++++++++++++++++
+- 🌱 Actually polishing my skills in Next.Js
 
 ---
 
